@@ -1,0 +1,1 @@
+Nothing would be printed to the screen.
